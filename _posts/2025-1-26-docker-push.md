@@ -19,4 +19,4 @@ Mengapa Perlu Push Image ke Docker Hub?
 
 Jika belum memiliki akun Docker, kita bisa mendaftar terlebih dahulu ke hub.docker.com. Jika sudah memiliki username dan password, login dengan perintah docker login.
 
-$ docker login
+    $ docker login
