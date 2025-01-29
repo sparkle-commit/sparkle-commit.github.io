@@ -1,12 +1,13 @@
 ---
-title: 'Install Minicube #1 Notes'
+title: 'Install Minikube #1 Notes'
 author: sparkle-commit
 layout: post
 permalink: /ins-min-notes/
 dsq_thread_id:
   - 1204965956
 categories:
-  - Poker
+  - Devops
+  - Kubernetes
 ---
 
 ![minikube1]({{ site.baseurl }}/images/minikube1.png)
