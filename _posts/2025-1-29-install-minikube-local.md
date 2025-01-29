@@ -24,8 +24,10 @@ Pada tutorial ini, kita akan mencoba mneginstal minikube dengan menggunakan bina
 
 Untuk menginstal versi stabil terbaru Minikube di Linux x86-64 menggunakan unduhan biner:
 
-    curl -LO https://github.com/kubernetes/minikube/releases/latest/download/minikube-linux-amd64
-    sudo install minikube-linux-amd64 /usr/local/bin/minikube && rm minikube-linux-amd64
+    curl -LO https://github.com/kubernetes/minikube/releases
+    /latest/download/minikube-linux-amd64
+    sudo install minikube-linux-amd64 /usr/local/bin
+    /minikube && rm minikube-linux-amd64
 
 ![minikube3]({{ site.baseurl }}/images/minikube3.png)
 
@@ -38,6 +40,7 @@ Tunggulah hingga proses download selesai. Apabila proses download selesai, maka 
 Dari terminal dengan akses administrator (tetapi tidak masuk sebagai root), jalankan perintah berikut:
 
     minikube start
+
 Jika Minikube gagal memulai, lihat halaman drivers untuk bantuan dalam mengatur pengelola container atau virtual machine yang kompatibel.
 
 ![minikube5]({{ site.baseurl }}/images/minikube5.png)
