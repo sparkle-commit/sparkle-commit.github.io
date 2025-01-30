@@ -2,7 +2,7 @@
 title: 'Install Minikube'
 author: sparkle-commit
 layout: post
-permalink: /ins-min-notes/
+permalink: /install-minikube/
 dsq_thread_id:
   - 1204965956
 categories:
