@@ -5,6 +5,7 @@ layout: post
 ---
 ![docker1]({{ site.baseurl }}/images/docker1.png)
 
+<!--more-->
 Apa itu Docker Hub?
 
 Docker Hub adalah layanan penyimpanan repositori image Docker yang memungkinkan Anda untuk:
