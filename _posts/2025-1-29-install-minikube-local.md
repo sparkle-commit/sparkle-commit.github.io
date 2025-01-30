@@ -12,6 +12,7 @@ categories:
 
 ![minikube1]({{ site.baseurl }}/images/minikube1.png)
 
+<!--more-->
 Minikube adalah sebuah alat yang memungkinkan kita dapat menjalankan Kubernetes secara lokal. Minikube menjalankan kluster Kubernetes lokal dalam satu node atau multi-node di komputer pribadi (termasuk Windows, macOS, dan Linux) sehingga kita dapat mencoba Kubernetes atau menggunakannya untuk pengembangan sehari-hari.
 Minikube adalah Kubernetes lokal yang berfokus pada kemudahan belajar dan pengembangan untuk Kubernetes.
 
