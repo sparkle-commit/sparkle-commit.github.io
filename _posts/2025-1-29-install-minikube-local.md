@@ -1,5 +1,5 @@
 ---
-title: 'Install Minikube #1 Notes'
+title: 'Install Minikube'
 author: sparkle-commit
 layout: post
 permalink: /ins-min-notes/
