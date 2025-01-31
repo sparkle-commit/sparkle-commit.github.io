@@ -19,7 +19,8 @@ kubectl adalah command-line tool untuk berinteraksi dengan Kubernetes. Dengan ku
 
 ## 1. Unduh rilis terbaru dengan perintah:
 
-    curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl"
+    curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io
+    /release/stable.txt)/bin/linux/amd64/kubectl"
 
 ![kubectl2]({{ site.baseurl }}/images/kubectl2.png)
 
@@ -34,7 +35,8 @@ Sebagai contoh, untuk mengunduh versi 1.32.0 di Linux x86-64, ketik:
 
 Unduh file checksum untuk memverifikasi integritas binary kubectl:   
 
-    curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl.sha256"
+    curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io
+    /release/stable.txt)/bin/linux/amd64/kubectl.sha256"
 
 ![kubectl3]({{ site.baseurl }}/images/kubectl3.png)
 
