@@ -1,3 +1,15 @@
+---
+title: 'Install Kubectl'
+author: sparkle-commit
+layout: post
+permalink: /install-kubectl/
+dsq_thread_id:
+  - 1204965956
+categories:
+  - Devops
+  - Kubernetes
+---
+
 ![kubectl1]({{ site.baseurl }}/images/kubectl1.png)
 
 <!--more-->
