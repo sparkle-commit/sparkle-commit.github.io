@@ -10,7 +10,7 @@ categories:
   - Kubernetes
 ---
 
-![kubectl1]({{ site.baseurl }}/images/kubectl1.png)
+![kubectl1]({{ site.baseurl }}/images/kubectl1.jpg)
 
 <!--more-->
 kubectl adalah command-line tool untuk berinteraksi dengan Kubernetes. Dengan kubectl, kamu bisa melakukan berbagai operasi seperti deploy aplikasi, mengelola resource cluster, dan melakukan debugging.
