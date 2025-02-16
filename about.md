@@ -9,7 +9,7 @@ permalink: /about/
 
 My name is Riza and I'm from Purwokerto. I'm the [Student at Pesantren Teknologi Informasi & Komunikasi](https://www.linkedin.com/in/mohammad-riza-al-fahri-86a19032a/) where I am deepening my knowledge of technology in the field of system and network management.
 
-![Pengelolaan Sistem & Jaringan]({{ site.imagesurl }}/psj.jpg "Pengelolaan Sistem & Jaringan")
+![psj.jpg]({{ site.imagesurl }}/psj.jpg "Pengelolaan Sistem & Jaringan")
 
 I love building things, but more than anything I enjoy helping other developers do what they love: writing code. If you're just starting out as a web developer and are looking to land your first serious web development work, this site is for you.
 
