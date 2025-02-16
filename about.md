@@ -7,7 +7,7 @@ permalink: /about/
 
 # Hi There!
 
-My name is Riza and I'm from Purwokerto. I'm the [Student at Pesantren Teknologi Informasi & Komunikasi]([https://www.linkedin.com/in/mohammad-riza-al-fahri-86a19032a/]) where I am deepening my knowledge of technology in the field of system and network management.
+My name is Riza and I'm from Purwokerto. I'm the [Student at Pesantren Teknologi Informasi & Komunikasi](https://www.linkedin.com/in/mohammad-riza-al-fahri-86a19032a/) where I am deepening my knowledge of technology in the field of system and network management.
 
 ![DoSomething.org Tech Team - End of 2013]({{ site.imagesurl }}/DoSomething-Tech-Team.jpg "DoSomething.org Tech Team - End of 2013")
 
