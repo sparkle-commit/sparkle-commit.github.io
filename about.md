@@ -10,7 +10,9 @@ permalink: /about/
 My name is Riza and I'm from Purwokerto. I'm the <a href="https://www.linkedin.com/in/mohammad-riza-al-fahri-86a19032a/" target="_blank">Student at Pesantren Teknologi Informasi & Komunikasi</a>
  where I am deepening my knowledge of technology in the field of system and network management.
 
+
 ![psj]({{ site.baseurl }}/images/psj.jpg)
+
 
 I have a deep passion for all things related to system and network management, from managing infrastructure and optimizing network performance to ensuring systems run securely and efficiently. However, more than anything, I truly enjoy helping others understand and master this technology. I believe that sharing knowledge and experience can empower more people to grow in this field. If you're just starting out in system and network management, looking to dive deeper, or searching for ways to enhance your skills, this site is made for you.
 
