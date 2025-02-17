@@ -8,13 +8,12 @@ permalink: /about/
 # Hi There!
 
 My name is Riza and I'm from Purwokerto. I'm the [Student at Pesantren Teknologi Informasi & Komunikasi](https://www.linkedin.com/in/mohammad-riza-al-fahri-86a19032a/) where I am deepening my knowledge of technology in the field of system and network management.
-
-![psj]({{ site.imagesurl }}/psj.jpg "Pengelolaan Sistem & Jaringan")
+![psj]({{ site.baseurl }}/images/psj.jpg)
 
 I have a deep passion for all things related to system and network management, from managing infrastructure and optimizing network performance to ensuring systems run securely and efficiently. However, more than anything, I truly enjoy helping others understand and master this technology. I believe that sharing knowledge and experience can empower more people to grow in this field. If you're just starting out in system and network management, looking to dive deeper, or searching for ways to enhance your skills, this site is made for you.
 
 
-If you’d like to get in touch or discuss system and network management, feel free to reach out to me. You can access my contact information through [my Gravatar profile]({{ site.baseurl }}/https://gravatar.com/observantbc579b3f16). I’m always open to sharing insights, having discussions, or simply exchanging experiences in the world of technology.
+If you’d like to get in touch or discuss system and network management, feel free to reach out to me. You can access my contact information through [my Gravatar profile](https://gravatar.com/observantbc579b3f16). I’m always open to sharing insights, having discussions, or simply exchanging experiences in the world of technology.
 
 ## My Recent Projects
 
