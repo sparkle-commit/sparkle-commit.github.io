@@ -14,6 +14,17 @@ categories:
 
 <!--more-->
 
+## BRIDGE
+● Digunakan untuk menggabungkan dua interface yang berbeda.
+● Bridge bekerja pada layer data link, sehingga
+device tidak harus memiliki IP address.
+● Bridge akan membagi jaringan menjadi beberapa segmen.
+● Pembagian segmen berdasarkan MAC address jaringan yang
+terhubung ke setiap interface/port dari router.
+● Pembagian ini berdasarkan ARP table.
+
+Cara membuat bridge:
+
 Pertama kita pilih terlebih dahulu interface mana saja yang akan kita buat menjadi bridge. Ubah namanya agar mudah dikenali dengan menambahkan -bridge.
 
 ![bridge1]({{ site.baseurl }}/images/bridge1.png)
