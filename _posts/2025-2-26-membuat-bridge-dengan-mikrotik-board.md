@@ -1,3 +1,14 @@
+---
+title: 'Membuat Bridge di Mikrotik'
+author: sparkle-commit
+layout: post
+permalink: /make-a bridge-on mikrotik/
+dsq_thread_id:
+  - 1204965956
+categories:
+  - Network
+  - Mikrotik
+---
 
 ![bridge0]({{ site.baseurl }}/images/bridge0.png)
 
