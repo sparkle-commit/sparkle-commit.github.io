@@ -1,3 +1,5 @@
+<!--more-->
+
 Pertama kita pilih terlebih dahulu interface mana saja yang akan kita buat menjadi bridge. Ubah namanya agar mudah dikenali dengan menambahkan -bridge.
 
 ![bridge1]({{ site.baseurl }}/images/bridge1.jpg)
