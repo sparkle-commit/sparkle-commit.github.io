@@ -10,7 +10,7 @@ categories:
   - Mikrotik
 ---
 
-![bridge0]({{ site.baseurl }}/images/bridge0.png)
+<img src="{{ site.baseurl }}/images/bridge.png" width="300" height="168" alt="Bridge Image">
 
 <!--more-->
 
