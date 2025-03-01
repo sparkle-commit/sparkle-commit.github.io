@@ -14,6 +14,46 @@ categories:
 
 <!--more-->
 
+MikroTik adalah salah satu perangkat jaringan yang banyak digunakan untuk mengelola koneksi internet, baik dalam skala kecil maupun besar. Salah satu fitur unggulan yang dimiliki oleh MikroTik adalah kemampuannya untuk berfungsi sebagai access point (AP) dalam jaringan wireless. Dengan menggunakan perangkat MikroTik yang dilengkapi dengan modul Wi-Fi, kita dapat membangun jaringan nirkabel yang handal dan efisien.
+
+Dalam tutorial ini, kita akan membahas langkah-langkah untuk membuat jaringan wireless menggunakan MikroTik. Tujuan utama dari konfigurasi ini adalah untuk memberikan akses jaringan kepada pengguna melalui koneksi nirkabel dengan keamanan yang terjamin.
+
+Manfaat Membuat Wireless di MikroTik
+
+- Fleksibilitas Jaringan – Pengguna dapat mengakses internet tanpa perlu kabel fisik, sehingga lebih praktis.
+
+- Efisiensi Biaya – Tidak perlu menarik kabel LAN ke setiap perangkat pengguna.
+
+- Kemudahan Manajemen – MikroTik memiliki fitur yang memudahkan administrator dalam mengelola pengguna dan bandwidth.
+
+- Keamanan Terjamin – Dapat menerapkan berbagai metode keamanan seperti WPA2, MAC Filtering, dan isolasi klien.
+
+Perangkat yang Dibutuhkan:
+
+Sebelum memulai konfigurasi, pastikan Anda memiliki perangkat berikut:
+
+1. Router MikroTik dengan interface wireless (misalnya RB951Ui-2HnD, hAP Lite, atau sejenisnya)
+
+2. Koneksi internet (optional, untuk konfigurasi hotspot)
+
+3. Akses ke WinBox atau terminal MikroTik
+
+4. Gambaran Konfigurasi
+
+Beberapa hal yang akan kita lakukan dalam konfigurasi jaringan wireless ini meliputi:
+
+- Mengaktifkan interface wireless pada MikroTik.
+
+- Mengonfigurasi SSID dan mode wireless.
+
+- Mengatur enkripsi dan keamanan jaringan.
+
+- Menetapkan DHCP server agar klien mendapatkan IP otomatis.
+
+- Menguji koneksi untuk memastikan jaringan berjalan dengan baik.
+
+Dengan mengikuti tutorial ini, diharapkan Anda dapat memahami bagaimana cara membangun dan mengelola jaringan wireless menggunakan MikroTik secara efektif. Mari kita mulai dengan langkah pertama!
+
 ### Langkah-langkah:
 
 Pertama kita aktifkan terlebih dahulu interface wlan yang akan kita gunakan dengan klik icon ceklist.
