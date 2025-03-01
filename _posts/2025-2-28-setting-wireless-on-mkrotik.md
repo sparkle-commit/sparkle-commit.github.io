@@ -14,6 +14,8 @@ categories:
 
 <!--more-->
 
+### Langkah-langkah:
+
 Pertama kita aktifkan terlebih dahulu interface wlan yang akan kita gunakan dengan klik icon ceklist.
 
 ![wire1]({{ site.baseurl }}/images/wire1.png)
