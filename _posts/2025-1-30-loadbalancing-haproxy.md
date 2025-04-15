@@ -108,7 +108,8 @@ Haproxy memiliki file konfigurasi default pada file /etc/haproxy/haproxy.cfg.
                 log /dev/log    local0
                 log /dev/log    local1 notice
                 chroot /var/lib/haproxy
-                stats socket /run/haproxy/admin.sock mode 660 level admin expose-fd listeners
+                stats socket /run/haproxy/admin.sock
+                 mode 660 level admin expose-fd listeners
                 stats timeout 17s
 
         # user dan group Haproxy
@@ -121,7 +122,8 @@ Haproxy memiliki file konfigurasi default pada file /etc/haproxy/haproxy.cfg.
              crt-base /etc/ssl/private
 
         # Bagian ssl cipher untuk enkripsi
-                 ssl-default-bind-ciphers ECDH+AESGCM:DH+AESGCM:ECDH+AES256:DH+AES256:ECDH+AES128:DH+AES:RSA+AESGCM:RSA+AES:!aNULL:!MD5:!DSS
+                 ssl-default-bind-ciphers ECDH+AESGCM:DH+AESGCM:ECDH+AES256:DH+AES256:ECDH+AES128:
+                 DH+AES:RSA+AESGCM:RSA+AES:!aNULL:!MD5:!DSS
                 ssl-default-bind-options no-sslv3
 
 - Pada section default, berisi tentang nilai konfigurasi dari berbagai node. Kita dapat melakukan custom pada bagian nilai dan halaman error.
