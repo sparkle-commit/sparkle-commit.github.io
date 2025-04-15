@@ -108,8 +108,7 @@ Haproxy memiliki file konfigurasi default pada file /etc/haproxy/haproxy.cfg.
                 log /dev/log    local0
                 log /dev/log    local1 notice
                 chroot /var/lib/haproxy
-                stats socket /run/haproxy/admin.sock
-                 mode 660 level admin expose-fd listeners
+                stats socket /run/haproxy/admin.sock mode 660 level admin expose-fd listeners
                 stats timeout 17s
 
         # user dan group Haproxy
