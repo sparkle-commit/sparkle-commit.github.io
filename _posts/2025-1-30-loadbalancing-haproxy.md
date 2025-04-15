@@ -1,7 +1,18 @@
+---
+title: 'Loadbalancing dengan Haproxy'
+author: sparkle-commit
+layout: post
+permalink: /loadbalancing-dengan-haproxy/
+dsq_thread_id:
+  - 1204965956
+categories:
+  - Server
+  - Loadbalancing
+---
+
 ![haproxy1]({{ site.baseurl }}/images/haproxy1.png)
 
 <!--more-->
-
 HAProxy digunakan untuk membagi beban trafik antara beberapa server backend yang berjalan di belakangnya. Hal ini berfungsi untuk meningkatkan ketersediaan, skalabilitas, performa, dan keamanan aplikasi ketika diakses.
 
 Pada Tutorial ini, Saya akan memberikan panduan cara install HAProxy sebagai load balancer di Ubuntu. Namun membahas cara install dan konfigurasinya, terlebih dahulu pastikan bahwa kita telah mempersiapkan sistem berikut.
