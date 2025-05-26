@@ -1,5 +1,5 @@
 ---
-title: 'Internet of Things'
+title: 'internet of things'
 author: sparkle-commit
 layout: post
 permalink: /internet-of-things/
