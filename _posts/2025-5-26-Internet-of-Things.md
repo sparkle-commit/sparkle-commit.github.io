@@ -10,7 +10,7 @@ categories:
   
 ---
 
-![iot1]({{ site.baseurl }}/images/iot1.png)
+![iot1]({{ site.baseurl }}/images/iot1.jpg)
 
 <!--more-->
 
@@ -22,7 +22,7 @@ Internet of Things (IoT) atau Internet untuk segala adalah sebuah konsep yang me
 
 IOT atau Internet of Things pertama kali dicetuskan oleh Kevin Ashton, seorang pionir teknologi Inggris, pada tahun 1999 saat bekerja di Pusat Auto-ID Massachusetts Institute of Technology (MIT).
 
-![iot2]({{ site.baseurl }}/images/iot2.png)
+![iot2]({{ site.baseurl }}/images/iot2.jpeg)
 
 Ia menyatakan bahwa sebuah objek atau benda bisa berkomunikasi dengan internet melalui sensor yang terpasang di dalamnya, sehingga dapat terkoneksi dengan perangkat lainnya. Saat itu, IOT belum banyak diperbincangkan dan belum ada teknologi yang dapat mendukung konsep tersebut. Barulah pada awal tahun 2000-an, teknologi sensor dan jaringan nirkabel mulai berkembang dan memungkinkan IOT untuk direalisasikan. Seiring berjalannya waktu, semakin banyak perusahaan dan pengembang yang tertarik untuk mengembangkan IOT, sehingga membuatnya semakin berkembang dan menjadi hal yang sangat penting di era digital saat ini. 
 
@@ -62,7 +62,7 @@ Contoh sederhana cara kerja IoT adalah termostat pintar yang terhubung dengan si
 
 Secara umum, IoT memungkinkan perangkat untuk saling terhubung dan berkomunikasi untuk mencapai tujuan tertentu, seperti menghemat energi, meningkatkan efisiensi produksi, atau meningkatkan kenyamanan pengguna. 
 
-![iot3]({{ site.baseurl }}/images/iot3.png)
+![iot3]({{ site.baseurl }}/images/iot3.jpg)
 
 ## Manfaat IoT
 
